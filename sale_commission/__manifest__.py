@@ -19,7 +19,7 @@
         "views/res_partner_view.xml",
         "views/sale_order_view.xml",
         "views/account_move_views.xml",
-        "views/sale_commission_settlement_view.xml",
+        # "views/sale_commission_settlement_view.xml",
         "views/sale_commission_settlement_report.xml",
         "views/report_settlement_templates.xml",
         "report/sale_commission_analysis_report_view.xml",
